@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#0F172A"/>
+  <!-- Subtle circular lens ring -->
+  <circle cx="50" cy="50" r="34" stroke="#E26D27" stroke-width="4" stroke-dasharray="8 4" stroke-opacity="0.9"/>
+  <circle cx="50" cy="50" r="26" stroke="#3B82F6" stroke-width="3" stroke-opacity="0.8"/>
+  <circle cx="50" cy="50" r="18" fill="#1E3A8A"/>
+  <!-- Focus crosshairs -->
+  <path d="M50 12 L50 22 M50 78 L50 88 M12 50 L22 50 M78 50 L88 50" stroke="#E26D27" stroke-width="3" stroke-linecap="round"/>
+  <!-- Core golden center -->
+  <circle cx="50" cy="50" r="8" fill="#F59E0B"/>
+</svg>

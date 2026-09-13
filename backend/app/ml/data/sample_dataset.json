@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "dataset_type": "DEMO / BOOTSTRAP TRAINING DATA",
+    "description": "Synthetic bootstrap dataset for demonstration and baseline training of BharatLens category classifier.",
+    "version": "1.0.0",
+    "categories": [
+      "politics",
+      "sports",
+      "technology",
+      "business",
+      "movies-entertainment",
+      "education",
+      "science",
+      "health",
+      "lifestyle",
+      "crime",
+      "environment"
+    ]
+  },
+  "samples": [
+    {
+      "title": "Parliament passes new digital governance bill after marathon debate",
+      "description": "The Lok Sabha approved the digital framework bill with bipartisan support following an extensive debate among parliamentarians.",
+      "category": "politics"
+    },
+    {
+      "title": "Election Commission announces dates for state assembly elections",
+      "description": "Chief Election Commissioner outlined polling schedules across five states with heightened security measures.",
+      "category": "politics"
+    },
+    {
+      "title": "Prime Minister chairs cabinet meeting on national infrastructure development",
+      "description": "The union cabinet reviewed major highway corridors and port expansion projects under the national master plan.",
+      "category": "politics"
+    },
+    {
+      "title": "Supreme Court delivers landmark ruling on electoral reforms and transparency",
+      "description": "A constitutional bench heard petitions regarding political funding regulations and issued binding guidelines.",
+      "category": "politics"
+    },
+    {
+      "title": "Opposition leaders hold joint strategy session ahead of budget session",
+      "description": "Alliance parties gathered to discuss economic policies, rural employment issues, and parliamentary strategy.",
+      "category": "politics"
+    },
+    {
+      "title": "State Governor addresses assembly on inaugural day of legislative session",
+      "description": "The Governor highlighted administrative achievements and policy priorities for the upcoming fiscal year.",
+      "category": "politics"
+    },
+    {
+      "title": "Municipal corporation elections record high voter turnout across wards",
+      "description": "Voters turned out in large numbers to elect local civic council representatives and mayors.",
+      "category": "politics"
+    },
+    {
+      "title": "Rajya Sabha debates new administrative reform legislation",
+      "description": "Ministers addressed questions regarding civil service modernization and governance efficiency.",
+      "category": "politics"
+    },
+
+    {
+      "title": "India secures thrilling victory in final over of international cricket match",
+      "description": "A spectacular century and tight bowling in the death overs propelled the national cricket team to an emphatic series win.",
+      "category": "sports"
+    },
+    {
+      "title": "Star badminton player advances to semifinals at World Championship",
+      "description": "Displaying brilliant smashes and court coverage, the ace shuttler defeated the top seed in three sets.",
+      "category": "sports"
+    },
+    {
+      "title": "National football team wins regional tournament with decisive penalty shootout",
+      "description": "The squad clinched the championship trophy after a tense 120-minute battle and goalkeeper heroics.",
+      "category": "sports"
+    },
+    {
+      "title": "Olympic gold medalist breaks world record in javelin throw event",
+      "description": "A record-shattering throw in the finals earned international acclaim and the top spot on the podium.",
+      "category": "sports"
+    },
+    {
+      "title": "Grandmaster wins international chess tournament after unbeaten run",
+      "description": "The young chess sensation outmaneuvered seasoned opponents with tactical masterclasses in the final rounds.",
+      "category": "sports"
+    },
+    {
+      "title": "Premier League title race intensifies as top clubs battle for championship",
+      "description": "Crucial weekend fixtures altered league standings with dramatic stoppage-time goals.",
+      "category": "sports"
+    },
+    {
+      "title": "National hockey squad prepares for upcoming Asian Champions Trophy",
+      "description": "Intensive training camps focused on penalty corners, fitness conditioning, and defensive coordination.",
+      "category": "sports"
+    },
+    {
+      "title": "Young tennis talent qualifies for Grand Slam main draw after qualifying sweep",
+      "description": "Three consecutive straight-set victories secured a place among elite competitors in the major tournament.",
+      "category": "sports"
+    },
+
+    {
+      "title": "Tech startup unveils generative AI model trained for vernacular Indian languages",
+      "description": "The deep learning foundation model supports multiple regional languages with efficient low-latency inference.",
+      "category": "technology"
+    },
+    {
+      "title": "Semiconductor manufacturing hub begins construction with advanced chip fabrication line",
+      "description": "The high-tech facility will manufacture microprocessors and silicon wafers for consumer electronics and automotive tech.",
+      "category": "technology"
+    },
+    {
+      "title": "Major cybersecurity alert issued over critical software vulnerability in cloud platforms",
+      "description": "Security researchers discovered zero-day exploits and urged immediate deployment of security patches.",
+      "category": "technology"
+    },
+    {
+      "title": "Smartphone maker introduces revolutionary battery technology with ultra-fast charging",
+      "description": "Next-generation solid-state battery architecture promises extended cycle life and rapid thermal dissipation.",
+      "category": "technology"
+    },
+    {
+      "title": "Open source quantum computing toolkit released for developers and researchers",
+      "description": "The framework enables simulation of quantum algorithms and quantum circuit optimization on standard hardware.",
+      "category": "technology"
+    },
+    {
+      "title": "Autonomous robotics company deploys intelligent warehouse automated guided vehicles",
+      "description": "Computer vision and SLAM navigation algorithms optimize logistics and inventory movement in fulfillment centers.",
+      "category": "technology"
+    },
+    {
+      "title": "Telecom giants roll out 5G advanced network trials across metropolitan hubs",
+      "description": "High-bandwidth low-latency networks enable edge computing and industrial IoT applications.",
+      "category": "technology"
+    },
+    {
+      "title": "Global cloud computing provider expands hyperscale data center capacity",
+      "description": "New data center regions feature energy-efficient cooling and custom artificial intelligence accelerators.",
+      "category": "technology"
+    },
+
+    {
+      "title": "Stock market indices Sensex and Nifty surge to record highs led by banking rally",
+      "description": "Foreign institutional inflows and strong corporate quarterly earnings boosted investor sentiment across sectors.",
+      "category": "business"
+    },
+    {
+      "title": "Reserve Bank maintains repo rate steady amid stable inflation and strong GDP growth",
+      "description": "The monetary policy committee projected robust economic expansion while keeping vigilant watch over food prices.",
+      "category": "business"
+    },
+    {
+      "title": "FMCG conglomerate announces mega merger to consolidate consumer goods market",
+      "description": "The multi-billion dollar acquisition aims to expand supply chain scale and rural retail distribution.",
+      "category": "business"
+    },
+    {
+      "title": "Fintech startup files IPO draft papers to raise capital for international expansion",
+      "description": "The digital payments platform plans primary share issuance to fund technology investments and merchant loans.",
+      "category": "business"
+    },
+    {
+      "title": "Direct tax collections cross annual targets supported by corporate and GST revenue",
+      "description": "Finance ministry reports healthy fiscal numbers reflecting broad-based compliance and economic activity.",
+      "category": "business"
+    },
+    {
+      "title": "Commercial real estate investments climb as institutional funds acquire grade-A office assets",
+      "description": "Strong leasing demand from IT and multinational capability centers drove asset valuations higher.",
+      "category": "business"
+    },
+    {
+      "title": "Global rating agency upgrades sovereign economic outlook citing structural reforms",
+      "description": "Credit analysts highlighted macroeconomic stability, foreign reserves, and robust manufacturing indices.",
+      "category": "business"
+    },
+    {
+      "title": "Automobile manufacturers report record monthly vehicle sales ahead of festive season",
+      "description": "Passenger vehicle dispatches reached peak levels with strong demand for electric and hybrid models.",
+      "category": "business"
+    },
+
+    {
+      "title": "Epic period action film breaks worldwide box office records on opening weekend",
+      "description": "Audiences packed theaters across multiplexes and single screens to watch the cinematic spectacle.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Acclaimed filmmaker announces ambitious mythological sci-fi trilogy featuring star-studded cast",
+      "description": "The director revealed pre-production plans, visual effects teams, and worldwide distribution partners.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Streaming platform releases official trailer for suspense thriller web series",
+      "description": "The gritty crime mystery series explores dark secrets in a remote Himalayan town and premieres next month.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "International Film Festival celebrates Indian cinema with prestigious retrospective award",
+      "description": "Celebrated actors, directors, and screenwriters attended the red carpet premiere and panel discussions.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Renowned music composer releases soulful soundtrack for upcoming musical drama",
+      "description": "Featuring traditional orchestration blended with modern synth textures, the album instantly topped music charts.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Theater artists stage classical play revival to standing ovations at cultural festival",
+      "description": "The dramatic production combined powerful stage design, live folk music, and gripping monologues.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Documentary film on endangered artisans wins jury prize at global documentary showcase",
+      "description": "The heartfelt feature sheds light on vanishing handloom traditions and generational craftsmanship.",
+      "category": "movies-entertainment"
+    },
+    {
+      "title": "Celebrated actress honored with lifetime achievement award for four decades of cinema",
+      "description": "Industry veterans and fans paid tribute to her versatile roles across classic cinema masterpieces.",
+      "category": "movies-entertainment"
+    },
+
+    {
+      "title": "CBSE and education boards announce revised curriculum framework focusing on practical skills",
+      "description": "The updated educational guidelines introduce hands-on coding, vocational training, and critical thinking modules.",
+      "category": "education"
+    },
+    {
+      "title": "IIT and IIM institutes record outstanding placement season with top global job offers",
+      "description": "Leading technology firms, consultancies, and financial giants recruited graduates across disciplines.",
+      "category": "education"
+    },
+    {
+      "title": "UGC launches nationwide digital university initiative for affordable higher learning",
+      "description": "Students across rural and urban districts can access accredited degree programs online through recognized universities.",
+      "category": "education"
+    },
+    {
+      "title": "National testing agency releases examination schedule for engineering and medical entrances",
+      "description": "Candidate registration portals opened with updated test center allocations and computerized test formats.",
+      "category": "education"
+    },
+    {
+      "title": "Government introduces comprehensive scholarship scheme for underprivileged science students",
+      "description": "Financial stipends and tuition waivers aim to encourage research careers and higher secondary completion.",
+      "category": "education"
+    },
+    {
+      "title": "Primary school reading literacy campaign shows impressive improvement in learning outcomes",
+      "description": "Interactive storytelling and foundational numeracy kits helped boost student engagement in district schools.",
+      "category": "education"
+    },
+    {
+      "title": "State universities sign international academic exchange partnerships for student mobility",
+      "description": "Dual degree programs and joint research laboratories will connect local scholars with global institutions.",
+      "category": "education"
+    },
+    {
+      "title": "Skill development council conducts vocational training workshops for green technology careers",
+      "description": "Thousands of youths received certification in solar installation, electric vehicle maintenance, and robotics.",
+      "category": "education"
+    },
+
+    {
+      "title": "ISRO successfully launches next-generation oceanography satellite into orbit",
+      "description": "The launch vehicle performed flawlessly to position the advanced remote sensing satellite for marine weather monitoring.",
+      "category": "science"
+    },
+    {
+      "title": "Astronomers discover rare exoplanet orbiting distant star using ground-based telescope",
+      "description": "Spectral analysis revealed atmospheric signatures of water vapor and methane on the super-Earth candidate.",
+      "category": "science"
+    },
+    {
+      "title": "Deep space mission probe sends back high-resolution images of lunar polar craters",
+      "description": "Scientific instruments mapped permanent shadowed regions to analyze subsurface ice distribution.",
+      "category": "science"
+    },
+    {
+      "title": "Physicists achieve breakthrough in room-temperature superconducting material synthesis",
+      "description": "Laboratory experiments demonstrated zero electrical resistance and diamagnetic properties under moderate pressures.",
+      "category": "science"
+    },
+    {
+      "title": "Gaganyaan crew module completes crucial parachute deceleration test ahead of human spaceflight",
+      "description": "Space agency engineers verified aerodynamic stability and recovery mechanisms in coastal sea waters.",
+      "category": "science"
+    },
+    {
+      "title": "Biochemists decipher molecular structure of resilient protein for drug discovery",
+      "description": "Cryogenic electron microscopy provided atomic-scale visualization of enzyme interactions.",
+      "category": "science"
+    },
+    {
+      "title": "Fusion reactor test facility sustains high-energy plasma confinement for record duration",
+      "description": "Magnetic containment coils maintained stable temperatures exceeding core solar conditions.",
+      "category": "science"
+    },
+    {
+      "title": "Paleontologists unearth well-preserved dinosaur fossils in central river valley",
+      "description": "The Cretaceous fossil discoveries provide vital insights into prehistoric biodiversity and tectonic migration.",
+      "category": "science"
+    },
+
+    {
+      "title": "Health ministry rolls out nationwide preventive screening drive for cardiovascular wellness",
+      "description": "Community health workers and primary clinics offer free blood pressure and cholesterol testing.",
+      "category": "health"
+    },
+    {
+      "title": "Medical researchers develop low-cost rapid diagnostic kit for vector-borne diseases",
+      "description": "The paper-strip testing kit delivers accurate detection of dengue and malaria within fifteen minutes.",
+      "category": "health"
+    },
+    {
+      "title": "Doctors perform groundbreaking robotic-assisted cardiac surgery with rapid recovery",
+      "description": "Minimally invasive precision surgical robotics allowed complex bypass procedures without open-heart incision.",
+      "category": "health"
+    },
+    {
+      "title": "Clinical trials show promising efficacy for novel targeted immunotherapy against cancer",
+      "description": "Oncologists reported tumor regression and improved survival rates among patients in multi-center clinical studies.",
+      "category": "health"
+    },
+    {
+      "title": "World Health Organization issues updated dietary guidelines on reducing ultra-processed foods",
+      "description": "Nutrition experts highlighted the link between excessive sodium intake and chronic metabolic disorders.",
+      "category": "health"
+    },
+    {
+      "title": "National mental health helpline sees surge in youth counseling and support sessions",
+      "description": "Trained psychologists provided tele-counseling resources and stress management guidance to students.",
+      "category": "health"
+    },
+    {
+      "title": "Hospitals adopt AI imaging software to accelerate early detection of diabetic retinopathy",
+      "description": "Automated retinal scanning algorithms assist ophthalmologists in high-volume rural health screening camps.",
+      "category": "health"
+    },
+    {
+      "title": "Pharmaceutical manufacturers expand generic medicine production to lower patient treatment costs",
+      "description": "Essential antibiotics and anti-hypertensive drugs will become widely available in affordable pharmacy networks.",
+      "category": "health"
+    },
+
+    {
+      "title": "Travelers flock to serene Himalayan homestays for wellness retreats and mindful living",
+      "description": "Ecotourism and meditation sanctuaries offer sustainable escapes away from bustling urban city life.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Contemporary designers celebrate handloom revival and sustainable organic fashion trends",
+      "description": "Runway showcases highlighted natural dyes, handwoven khadi fabrics, and ethical fashion manufacturing.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Culinary masters reimagine ancient regional millet recipes for fine dining gastronomy",
+      "description": "Heritage grains take center stage in artisanal bakeries and gourmet restaurants across major food capitals.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Yoga instructors and fitness enthusiasts celebrate international day of holistic wellness",
+      "description": "Mass asana sessions and breathwork workshops attracted thousands of practitioners in city parks.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Interior design trends embrace biophilic architecture and minimalist earthy aesthetics",
+      "description": "Homeowners incorporate indoor greenery, natural terracotta materials, and abundant natural light.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Heritage walking tours uncover forgotten culinary gems and historic monuments in old quarters",
+      "description": "Cultural enthusiasts explore centuries-old street food stalls, Mughal architecture, and artisan guilds.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Artisanal coffee culture expands with specialty roasters and single-origin estate brews",
+      "description": "Coffee connoisseurs sample pour-overs and cold brews sourced directly from high-altitude plantation growers.",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Mindfulness and digital detox retreats gain popularity among working professionals",
+      "description": "Weekend nature retreats offer screen-free environments focused on journaling, hiking, and forest bathing.",
+      "category": "lifestyle"
+    },
+
+    {
+      "title": "Police bust inter-state cyber fraud syndicate operating fraudulent investment schemes",
+      "description": "Special cyber cell detectives arrested prime suspects and seized digital devices used in phishing operations.",
+      "category": "crime"
+    },
+    {
+      "title": "Enforcement agencies confiscate illicit contraband during coordinated border checkpoints",
+      "description": "Customs officials and anti-narcotics task forces intercepted smuggling consignments worth millions.",
+      "category": "crime"
+    },
+    {
+      "title": "City police arrest organized burglary gang and recover stolen gold jewelry and valuables",
+      "description": "CCTV tracking and forensic clues enabled officers to solve multiple residential theft cases within days.",
+      "category": "crime"
+    },
+    {
+      "title": "Anti-corruption bureau nabs government official accepting bribe for project clearance",
+      "description": "Vigilance sleuths conducted a surprise trap operation following complaints by local infrastructure contractors.",
+      "category": "crime"
+    },
+    {
+      "title": "Financial intelligence unit detects illegal shell companies involved in money laundering",
+      "description": "Investigators frozen bank accounts and submitted formal chargesheets in special economic offenses court.",
+      "category": "crime"
+    },
+    {
+      "title": "Highway patrol apprehends armed robbery gang after high-speed vehicle pursuit",
+      "description": "Patrol teams surrounded the getaway vehicle and recovered illegal firearms and seized vehicles.",
+      "category": "crime"
+    },
+    {
+      "title": "Court sentences fraudster to rigorous imprisonment in commercial bank loan scam",
+      "description": "Judicial magistrate delivered guilty verdict after prosecution presented counterfeit loan documentation.",
+      "category": "crime"
+    },
+    {
+      "title": "Cybersecurity task force issues warning against fake banking APK malware targeting smartphones",
+      "description": "Advisories urged mobile users not to install unverified application packages from social media messages.",
+      "category": "crime"
+    },
+
+    {
+      "title": "Monsoon rainfall revitalizes major reservoirs and brings respite to agricultural belts",
+      "description": "Meteorological department reports above-normal seasonal precipitation benefiting kharif crop sowing.",
+      "category": "environment"
+    },
+    {
+      "title": "National tiger reserve census reports rise in big cat population due to strict anti-poaching patrol",
+      "description": "Forest department camera traps and wildlife conservationists recorded healthy cub survival rates.",
+      "category": "environment"
+    },
+    {
+      "title": "Renewable energy park commissions mega solar and wind hybrid power installation",
+      "description": "The clean energy facility will generate thousands of megawatts of zero-emission electricity for the state grid.",
+      "category": "environment"
+    },
+    {
+      "title": "State launches intensive river rejuvenation campaign to restore aquatic ecosystems",
+      "description": "Pollution control boards deployed sewage treatment plants and afforestation along river banks.",
+      "category": "environment"
+    },
+    {
+      "title": "Air quality monitoring committee implements pollution control measures as winter approaches",
+      "description": "Enforcement drives cracked down on dust suppression, stubble burning, and vehicular exhaust emissions.",
+      "category": "environment"
+    },
+    {
+      "title": "Mangrove conservation project shields coastal villages from tropical cyclone storm surges",
+      "description": "Community bio-shields and wetland restoration proved critical in mitigating sea erosion during high tides.",
+      "category": "environment"
+    },
+    {
+      "title": "Green building council honors zero-waste urban residential township for rainwater harvesting",
+      "description": "Sustainable water recycling and composting infrastructure minimized municipal waste and groundwater extraction.",
+      "category": "environment"
+    },
+    {
+      "title": "International climate summit agrees on accelerated carbon emission reduction targets",
+      "description": "Global delegates signed agreements for green technology climate funds and clean energy transition subsidies.",
+      "category": "environment"
+    }
+  ]
+}
