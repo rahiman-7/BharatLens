@@ -180,6 +180,7 @@ def run_ingestion(
     provider_type: str = "all",
 ) -> Dict[str, Any]:
     """Execute complete ingestion pipeline with multi-provider resilience."""
+    global _regional_rotation_index
     stats = {
         "fetched": 0,
         "saved": 0,
